@@ -1,0 +1,7 @@
+.venv
+.env
+logs/
+**/__pycache__/
+*.py[cod]
+*.pyo
+alembic/versions/*.pyc
